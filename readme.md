@@ -2,7 +2,7 @@
 
 O que te motivou a se candidatar para o PIBIC?
 
-Como é feita a divisão dos projetos do PIBIC em relação as divisões dos cursos?
+Como é feita a divisão dos projetos do PIBIC em relação aos cursos?
 
 Quais foram as principais dificuldades que você encontrou durante o processo de pesquisa?
 
