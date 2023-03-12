@@ -17,4 +17,4 @@ Adição de ferramentas de comunicação: Uma das principais vantagens do PIBIC 
 
 Disponibilização de conteúdo educativo: A plataforma do PIBIC pode oferecer conteúdo educativo para auxiliar os participantes em diferentes etapas do projeto de pesquisa. Isso pode incluir vídeos, artigos, tutoriais, entre outros.
 
-Melhorias na integração com outras plataformas: O PIBIC pode se integrar com outras plataformas e serviços, como softwares de gerenciamento de projetos, editores de texto e bibliotecas digitais, para facilitar a realização da pesquisa e garantir que os participantes possam acessar todas as ferramentas necessárias.
+Melhorias na integração com outras plataformas: O PIBIC pode se integrar com outras plataformas e serviços, como softwares de gerenciamento de projetos, editores de texto e bibliotecas digitais, para facilitar a realização da pesquisa e garantir que os participantes possam acessar todas as ferramentas necessárias
