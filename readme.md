@@ -2,7 +2,7 @@
 
 O que te motivou a se candidatar para o PIBIC?
 
-Qual é o tema do seu projeto de pesquisa e por que você escolheu este tema?
+Como é feita a divisão dos projetos do PIBIC em relação as divisões dos cursos?
 
 Quais foram as principais dificuldades que você encontrou durante o processo de pesquisa?
 
