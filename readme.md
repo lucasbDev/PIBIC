@@ -8,17 +8,16 @@ Quais foram as principais dificuldades que você encontrou durante o processo de
 
 Como você lida com a pressão de ter que entregar resultados em um determinado prazo?
 
-Como o PIBIC ajudou no seu desenvolvimento acadêmico e profissional?
 
-Qual é a importância do PIBIC para a pesquisa no Brasil?
 
-Quais são as principais habilidades que você adquiriu durante a sua participação no PIBIC?
+
+
 
 Você acha que o PIBIC poderia ser melhorado? Se sim, de que forma?
 
-Qual é a sua opinião sobre a possibilidade de extinção do PIBIC?
 
-Como o PIBIC influenciou suas perspectivas para o futuro acadêmico e profissional?
+
+
 
 
 Melhorias na usabilidade da plataforma: É importante que a plataforma do PIBIC seja fácil de usar e intuitiva para todos os usuários. Isso inclui a possibilidade de encontrar informações relevantes facilmente, além de disponibilizar um suporte técnico eficiente para lidar com possíveis problemas.
