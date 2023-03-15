@@ -1,6 +1,6 @@
 ## Exemplo que será editado após o levantamento de requisito.
 
-Project Name> Equipe: Carlos Roberto da Silva Júnior
+Project Name> Equipe:Nome da Equipe
 Projeto Integrador IV
 
 
